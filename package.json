@@ -1,0 +1,26 @@
+{
+  "name": "fzksp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmbarion/fzksp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmbarion/fzksp/issues"
+  },
+  "homepage": "https://github.com/mmbarion/fzksp#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "aws-sdk": "^2.2.21",
+    "cheerio-httpcli": "^0.3.8",
+    "request": "^2.67.0"
+  }
+}
